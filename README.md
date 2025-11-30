@@ -30,7 +30,9 @@
 
 ###
 
-<p align="left">👨‍💻 Ayush Kumar Singh, CSE student at Parul University<br><br>🌱 Currently learning HTML, CSS & JavaScript<br><br>🔧 Working on my college project: Campus OLX (student marketplace)<br><br>💡 Interested in building simple-to-use, real-life problem–solving web apps<br><br>🚀 Exploring Git, GitHub, and beginner-level web development<br><br>🎯 Goal: Become skilled in frontend → then move to React & full-stack<br><br>🤝 Open to collaborating on beginner-friendly web projects<br><br>⚡ Fun fact: I love creating clean UIs and improving them again and again 😄</p>
+<p align="left">👋 Hey, I'm Ayush Singh!<br><br>👨‍💻 student at Parul University<br><br>🌱 Currently learning HTML, CSS & JavaScript<br><br>🔧 Working on my college project: Campus OLX – a student marketplace<br><br>💡 Love building simple, clean, and useful web projects<br><br>🚀 Exploring Git, GitHub, and core web development<br><br>🎯 Goal: Master frontend → Learn React → Grow into full-stack development<br><br>🤝 Open to collaborating on beginner-friendly projects<br><br>⚡ Fun fact: I enjoy making UI designs look better every time 😄</p>
+
+###
 
 ###
 
