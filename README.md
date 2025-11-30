@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Ayush from India.<br><br>🔭 Working on sharpening my coding skills.<br><br>📚 Currently learning web dev + improving logic building.<br><br>⚡ Free time = music, designing, and discovering new ideas.</p>
+<p align="left">I'm Ayush Singh from India.<br><br>🔭 Working on sharpening my coding skills.<br><br>📚 Currently learning web dev + improving logic building.<br><br>⚡ Free time = music, designing, and discovering new ideas.</p>
 
 ###
 
