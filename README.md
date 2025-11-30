@@ -1,31 +1,31 @@
-<!-- 🖤 SHADOW MINIMAL THEME -->
+<!-- 🌌 DARK GALAXY THEME -->
 
-<h1 align="center"><b>👋 Hey, I'm Ayush Singh</b></h1>
-<p align="center">Frontend Developer • CSE Student • Learner</p>
+<div align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="500"/>
+</div>
 
----
-
-### 🧑‍💻 About Me  
-- CSE Student at **Parul University**  
-- Learning **HTML, CSS, JavaScript**  
-- Creating **Campus OLX** (student marketplace)  
-- Exploring Git, GitHub & UI design  
+<h1 align="center">✨ Ayush Singh • Web Developer ✨</h1>
 
 ---
 
-### 🛠 Tech I Use  
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+### 🌠 About Me  
+🚀 Passionate beginner developer  
+🪐 Learning HTML, CSS & JavaScript  
+🛰 Working on Campus OLX  
+⭐ Loves space-themed UI & animations  
 
 ---
 
-### 📈 GitHub Stats  
+### 🛠 Tech Stack  
+![HTML](https://img.shields.io/badge/HTML-%23FF6F61?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%233498DB?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-%23F4D03F?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayushkrsingh001&theme=github-dark&hide_border=true" height="200"/>
+<img src="https://streak-stats.demolab.com?user=ayushkrsingh001&theme=midnight-purple&hide_border=false" height="210"/>
 
 </div>
 
